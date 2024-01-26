@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toggle-color/static/css/main.3c55d6ca.css",
+    "main.js": "/toggle-color/static/js/main.393a59f8.js",
+    "index.html": "/toggle-color/index.html",
+    "main.3c55d6ca.css.map": "/toggle-color/static/css/main.3c55d6ca.css.map",
+    "main.393a59f8.js.map": "/toggle-color/static/js/main.393a59f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c55d6ca.css",
+    "static/js/main.393a59f8.js"
+  ]
+}
